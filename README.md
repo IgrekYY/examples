@@ -1,5 +1,5 @@
 # README
 
-**Not working rails app
+# Not working rails app
 
-*Notes
+## For notes only
